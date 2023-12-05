@@ -1,7 +1,7 @@
 
 # Stunting Awareness App
 
-<figure style="float: right; margin: 0 0 10px 10px;">
+<figure style="float: right; margin: 0 0 10px 10px; align: right;">
   <img src="https://i.ibb.co/BC1FGR9/Gizi-Sight-Presentation-APK.png" alt="Stunting Awareness App Image" width="250" height="250">
   <figcaption>http://bit.ly/GiziSightAPK</figcaption>
 </figure>
