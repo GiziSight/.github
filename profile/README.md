@@ -1,4 +1,9 @@
+
 # Stunting Awareness App
+
+<div style="float: right; margin: 0 0 10px 10px;">
+  <img width="250" height="250" src="https://i.ibb.co/HrxDmLw/bit-ly.png" alt="Stunting Awareness App Image">
+</div>
 
 Stunting is a chronic nutritional problem due to a lack of nutritional intake over a long period of time resulting in the disruption of growth in children. Based on the results of the Indonesian Nutrition Status Survey Indonesia (SSGI) 2022, babies who are in the womb and babies who are 6 - 23 months old are very susceptible to stunting. Stunting is still a major nutritional problem facing Indonesia.
 
@@ -7,5 +12,3 @@ The percentage of stunting in Indonesia in 2022 is 21.6% or more than 4.5 millio
 ## Purpose of the Application
 
 What applications should be developed for the purpose of increasing the knowledge of the nutrients contained in each type of food that will be consumed daily in an effective and efficient way?
-
-<img align="right" width="250" height="250" src="https://i.ibb.co/HrxDmLw/bit-ly.png">
