@@ -1,4 +1,4 @@
-# Abstract
+## Abstract
 
 Stunting is a chronic nutritional problem due to a lack of nutritional intake over a long period of time resulting in the disruption of growth in children. Based on the results of the Indonesian Nutrition Status Survey Indonesia (SSGI) 2022, babies who are in the womb and babies who are 6 - 23 months old are very susceptible to stunting. Stunting is still a major nutritional problem facing Indonesia. 
 
